@@ -4,7 +4,7 @@ I'm working through a 10-step DevOps course and using this repo to track my prog
 
 ## Where I'm At
 
-- [ ] **Step 1:** Linux Basics & Server Management
+- [done] **Step 1:** Linux Basics & Server Management
 - [ ] **Step 2:** Bash Scripting & Automation  
 - [ ] **Step 3:** AWS Fundamentals & Cloud Computing
 - [ ] **Step 4:** CI/CD with Jenkins & Git
