@@ -1,8 +1,8 @@
-# DevOps Course Documentation
+# My DevOps Learning Journey
 
-A comprehensive 10-step journey through DevOps tools and practices, covering everything from Linux basics to advanced GitOps workflows. This repository serves as my learning companion and reference guide throughout the course.
+I'm working through a 10-step DevOps course and using this repo to track my progress and take notes. Nothing fancy, just a place to dump what I learn so I can reference it later.
 
-## Course Progress
+## Where I'm At
 
 - [ ] **Step 1:** Linux Basics & Server Management
 - [ ] **Step 2:** Bash Scripting & Automation  
@@ -15,12 +15,13 @@ A comprehensive 10-step journey through DevOps tools and practices, covering eve
 - [ ] **Step 9:** Infrastructure as Code with Terraform
 - [ ] **Step 10:** GitOps & Advanced Deployment
 
-## How to Use This Repo
+## How I Use This
 
-1. **Navigate to each step folder** in the `steps/` directory
-2. **Fill in notes** as you progress through each lesson
-3. **Copy/paste commands** from the "Commands Used" sections
-4. **Check off completed steps** in the progress list above
-5. **Use as a quick reference** during real-world implementations
+1. **Go to each step folder** when I start a new section
+2. **Jot down notes** in the "Quick Notes" section while watching videos
+3. **Copy important commands** into the "Commands Used" section
+4. **Write a quick summary** when I finish each topic
+5. **Check off steps** above as I complete them
+6. **Come back here** when I need to remember something
 
-Each lesson file follows a simple template for fast note-taking and easy review. 
+Just keeping it simple so I can focus on learning instead of organizing. 
